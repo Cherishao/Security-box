@@ -2,7 +2,8 @@
 
 安全行业小工具项目集，此项目内容部分来自：https://www.t00ls.net/thread-38964-1-1.html 感谢其分享，这里主要作为个人备份，如有问题可邮件通知。
 
-
+Security box, here mainly refers to  own backup security industry related small tool project set.
+The some contentes of this project comes from: https://www.t00ls.net/thread-38964-1-1.html ,thanks for its sharing, if there is a problem can mail notification aochengkao@gmail.com
 
 ---
 
